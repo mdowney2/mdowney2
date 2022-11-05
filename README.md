@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdowney2
+- 👋 Hi, I’m Michaela
 - 👀 I’m interested in web development, data science, and technology as a force for good
 - 🌱 I’m currently learning Gatsby & Firebase
 - 💞️ I’m looking to collaborate on technology that fosters human connection
